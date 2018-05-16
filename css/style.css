@@ -74,10 +74,12 @@ img{
 }
 .iconos1{
 	display: flex;
+
 }
 #iuno, #idos, #itres{
 	display: block;
 	margin: auto;
+	color: #2196F3;
 }
 .columnas-features{
 	text-align: center;

@@ -23,7 +23,7 @@ button {
 	margin-top: 3%;
 	background-color: #428bca;
 	color: white;
-	padding: 2%;
+	padding: 1%;
 	border-radius: 3%;
 	border: solid 1px #428bca;
 }
@@ -54,7 +54,7 @@ hr{
 	background-color: #2196F3;
 	border: 0px;
 	margin-bottom: 80px;
-	margin-top: 5%;
+	margin-top: 3%;
 }
 .text-parrafo{
 	text-align: center;
@@ -75,7 +75,99 @@ img{
 .iconos1{
 	display: flex;
 }
-#iuno{
+#iuno, #idos, #itres{
 	display: block;
 	margin: auto;
+}
+.columnas-features{
+	text-align: center;
+}
+.parrafos-features{
+	text-align: center;
+	margin-top: 1%;
+	margin: 9%;
+
+}
+.some{
+	margin-top: 10%;
+}
+
+.features{
+	background-color: 	#E6E6FA;
+	margin-top: 18px;
+	height: 650px;
+
+}
+
+#titulo-features{
+	margin-top: 10%;
+	padding: 5%;
+}
+.txt-parrafo-feature{
+	text-align: center;
+}
+.what{
+	margin-top: 13%;
+	margin-bottom: 10%;
+}
+.txt-what{
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 4%;
+}
+.what-nombres{
+	font-size: 15px;
+	text-align: center;
+	
+}
+.correo{
+	padding: 1px:;
+	width: 30%;
+	margin: 0 3%;
+	height: 20%;
+	
+}
+.txt-join{
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+
+.formulario{
+	display: flex;
+	justify-content: center;
+	
+}
+.btn-suscribe{
+	justify-content: center;
+}
+.pie-de-pagina{
+	height: 40%;
+	background-color: 	#2F4F4F;
+	
+}
+.join{
+	background-color: 	#E6E6FA;
+	height: 70%;
+}
+.titulo-join{
+	padding: 3%;
+}
+.iconos-redes{
+	color: white;
+}
+footer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#icon1, #icon2, #icon3, #icon4{
+	padding: 2%;
+	margin-top: 45%;
+	
+}
+.txt-footer{
+	color: white;
 }
